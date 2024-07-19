@@ -1,2 +1,2 @@
 # android_device_samsung_gts2-common
-comm tree for gts2
+common tree for gts2
